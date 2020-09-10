@@ -1,6 +1,8 @@
 # Amazon Clone
 
-# DEMO :clone-3ad0f.web.app/
+# DEMO :
+
+(clone-3ad0f.web.app/)
 
 ![](screnn3.PNG)
 ![](screen_Amazon.PNG)
