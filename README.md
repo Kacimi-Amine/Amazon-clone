@@ -2,7 +2,9 @@
 
 #
 
-[DEMO](clone-3ad0f.web.app/)
+## 👇 DEMO 👇
+
+## https://clone-3ad0f.web.app/checkout
 
 ![](screnn3.PNG)
 ![](screen_Amazon.PNG)
